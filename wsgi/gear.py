@@ -379,10 +379,10 @@ class Gear(object):
     <!DOCTYPE html>
     <html>
     <head>
-    <title>第十二週第五個程式: 將結果印在網頁</title>
+    <title>第十二週第五個程式: 上課要認真</title>
     </head>
     <body>
-    <h1>第十二週第五個程式: 將結果印在網頁</h1>
+    <h1>第十二週第五個程式: 上課要認真</h1>
      
     <script type="text/javascript">
      
